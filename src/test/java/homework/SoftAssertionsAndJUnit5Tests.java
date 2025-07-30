@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class SoftAssertionsAndJUnit5Tests {
 
     @Test
-    void SoftAssertionsAndJUnit5Test () {
+    void softAssertionsAndJUnit5Test () {
         //Configuration.holdBrowserOpen = true;
         Configuration.baseUrl = "https://github.com";
 
